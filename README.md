@@ -31,9 +31,9 @@
 
 [<img name="linkedin" width="30px" src="https://user-images.githubusercontent.com/79085857/141673554-6a7f0f91-f436-4204-a680-e7b3ae05822e.png" />](https://www.linkedin.com/in/harsh-goyal-b3a042190)
 &nbsp;&nbsp;&nbsp; [<img name="facebook" width="30px" src="https://user-images.githubusercontent.com/79085857/141674202-8d11244f-5325-47a3-a693-0d06432a2e69.png" />](https://www.facebook.com/harsh.goel.501)
+&nbsp;&nbsp;&nbsp; [<img name="instagram" width="30px" src="https://user-images.githubusercontent.com/79085857/141674406-bbd34b39-4985-4315-8bd8-e7502a1388ad.png" />](https://www.instagram.com/iharsh_g/)
 &nbsp;&nbsp;&nbsp; [<img name="twitter" width="30px" src="https://user-images.githubusercontent.com/79085857/141674271-fe1f7432-79d8-4ddf-88ed-c72ae08b73ba.png" />](https://www.twitter.com/@iharsh_g)
 &nbsp;&nbsp;&nbsp; [<img name="telegram" width="30px" src="https://user-images.githubusercontent.com/79085857/141674315-2330ef38-fdf7-4a59-a745-3c1ecd9fb93c.png" />](https://t.me/iharsh_g)
-&nbsp;&nbsp;&nbsp; [<img name="instagram" width="30px" src="https://user-images.githubusercontent.com/79085857/141674406-bbd34b39-4985-4315-8bd8-e7502a1388ad.png" />](https://www.instagram.com/iharsh_g/)
 
 #
 
