@@ -1,5 +1,5 @@
 <!-- &nbsp; This is used for space in markdown engine used in readme files -->
-### Hi there, I'm Harsh Goyal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi there! 
 
 ## I'm a Android App Developer!
 - 🔭 I’m currently working on Android App Projects
