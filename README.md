@@ -1,5 +1,5 @@
 <!-- &nbsp; This is used for space in markdown engine used in readme files -->
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">  Hi there! 
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  Hi there! 
 
 ## I'm a Android App Developer!
 - 🔭 I’m currently working on Android App Projects
@@ -22,7 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iharsh-g&theme=chartreuse-dark&repo=ShortYoutube)](https://github.com/iharsh-g/ShortYoutube) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iharsh-g&theme=chartreuse-dark&repo=AnyTimeWeather)](https://github.com/iharsh-g/AnyTimeWeather)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iharsh-g&theme=chartreuse-dark&repo=PopularMovies)](https://github.com/iharsh-g/PopularMovies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iharsh-g&theme=chartreuse-dark&repo=Moviepedia)](https://github.com/iharsh-g/Moviepedia)
 
 
 #
