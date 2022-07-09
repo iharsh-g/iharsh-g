@@ -1,10 +1,10 @@
 <!-- &nbsp; This is used for space in markdown engine used in readme files -->
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  Hi there! 
 
-## I'm a Android App Developer!
+## I'm a CSE Grad!
 - 🔭 I’m currently working on Android App Projects
 - 🌱 I’m currently learning Android App Development and DS/Algo
-- ⚡ Fun fact: I love to play keyboard / guitar and swimming
+- ⚡ Fun fact: I love to play keyboard and swimming
 - <img name="gmail" width="15px" src="https://user-images.githubusercontent.com/79085857/141674338-3bed24ed-753a-460c-83a2-20cc81c6f334.png" /> - harsh.g5107@gmail.com
 
 # <!-- Used for line break -->
