@@ -1,7 +1,7 @@
 <!-- &nbsp; This is used for space in markdown engine used in readme files -->
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  Hi there! 
 
-## I'm a CSE Grad!
+## I'm a CSE UnderGrad!
 - 🔭 I’m currently working on Android App Projects
 - 🌱 I’m currently learning Android App Development and DS/Algo
 - ⚡ Fun fact: I love to play keyboard and swimming
