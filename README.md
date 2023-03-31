@@ -2,8 +2,8 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">  Hi there! 
 
 ## I'm a CSE UnderGrad!
-- 🔭 I’m currently working on Android App Projects
-- 🌱 I’m currently learning Android App Development and DS/Algo
+- 🔭 I’m currently working on Web Dev Projects
+- 🌱 I’m currently learning Web Dev, Android App Development and DS/Algo
 - ⚡ Fun fact: I love to play keyboard and swimming
 - <img name="gmail" width="15px" src="https://user-images.githubusercontent.com/79085857/141674338-3bed24ed-753a-460c-83a2-20cc81c6f334.png" /> - harsh.g5107@gmail.com
 
